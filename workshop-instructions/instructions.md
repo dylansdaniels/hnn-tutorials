@@ -16,6 +16,7 @@
     - [Creating a Conda Env and Installing Dependencies](#creating-a-conda-env-and-installing-dependencies)
     - [Installing MPI for Parallel Simulations](#installing-mpi-for-parallel-simulations)
     - [Launch the GUI](#launch-the-gui)
+- [Workshop Feedback](#workshop-feedback)
 
 # Workshop Sign-In (Optional but Encouraged)
 
@@ -191,4 +192,11 @@ You can now launch the GUI from within your conda environemnt.
 conda activate hnn_core_gui # activate the environment if needed
 hnn-gui
 ```
+
+# Workshop Feedback
+
+We would greatly appreciate it if you would fill out our [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSeJvY_Qj138ghA_-Bg4flE4RImr68O_APubBWfsXKremMPoag/viewform) after the workshop! Your answers are totally anonymous, and your feedback will help us continue to improve HNN for the community. Thank you!
+
+
+
 
