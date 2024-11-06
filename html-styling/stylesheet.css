@@ -9,6 +9,8 @@
   max-width: 900px; 
   padding-left: 10px;
   padding-right: 10px;
+  font-size: 1.2em;
+  transition: font-size 0.2s ease; /* Add a transition for smooth font resizing */
 }
 
 /* Add a top margin to avoid content overlay */
